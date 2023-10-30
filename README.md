@@ -1,4 +1,3 @@
-# Python-Project-Submission--Soumya
 # Movie Genre Web Scraper
 
 This Python script is designed to scrape a list of movies based on the genre you specify from the IMDb website. It uses the `requests` library to make HTTP requests, `BeautifulSoup` for parsing HTML content, and `pandas` to create a CSV file with the scraped movie data.
